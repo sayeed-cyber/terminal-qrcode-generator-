@@ -35,7 +35,8 @@ Run these commands on it -
 ### after installation process is done for first time
 - only these programs can be runned to start the application
 ```
- cd terminal-qrcode-generator
+ cd
+ cd terminal-qrcode-generator-
  python Qr.py
 ```
 - y'all professional may b thinking about it like why this guy taking it so deep in installation thats a most basic thing everyone will b familiar with it 🙄
