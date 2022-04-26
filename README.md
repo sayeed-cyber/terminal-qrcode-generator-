@@ -42,4 +42,4 @@ Run these commands on it -
 - y'all professional may b thinking about it like why this guy taking it so deep in installation thats a most basic thing everyone will b familiar with it 🙄
 ...... So its gonna look harder for for most beginners out there who jus started in 
 - even when i was a beginner  i was unable to make things  i was like why all this guys don't tell installation process how to download it ..how to use em🥲
-- i hope y'all beginner r happy about this 🙂
+- i hope all beginner out there r happy about this 🙂
